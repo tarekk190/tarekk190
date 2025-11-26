@@ -45,10 +45,16 @@
 
 
 ### 📊 Github Stats
-### My GitHub Stats Badges
+<!-- Social Icons -->
+[<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" alt="LinkedIn" height="18px">](https://www.linkedin.com/in/tarek-helal1)
+[<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" alt="Twitter" height="18px">](https://twitter.com/jharahul98/)
+[<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" alt="Kaggle" height="18px">](https://www.kaggle.com/rahuljha98/)
 
-<!-- Stats Overview -->
-![GitHub Stats](https://github.com/tarekk190/your-repo/raw/main/github-stats.png)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarekk190&show_icons=true&theme=radical)
+
+<!-- Most Used Languages -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical)
 
 
 
