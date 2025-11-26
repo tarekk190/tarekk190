@@ -45,7 +45,8 @@
 
 
 ### 📊 Github Stats
-<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+### 📊 GitHub Stats
+<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
 
   <img src="https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" 
        alt="GitHub Stats" height="180" style="object-fit: contain;"/>
@@ -54,6 +55,7 @@
        alt="Most Used Languages" height="180" style="object-fit: contain;"/>
 
 </div>
+
 
 
 ### 🛠️ My Projects
