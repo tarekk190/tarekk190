@@ -45,16 +45,13 @@
 
 
 ### 📊 Github Stats
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-</td>
-<td>
-  <img src="https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" alt="Most Used Languages" width="350"/>
-</td>
-</tr>
-</table>
+<div style="display: flex; align-items: center; gap: 10px;">
+
+  <img src="https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+
+  <img src="https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" alt="Most Used Languages" height="180"/>
+
+</div>
 
 ### 🛠️ My Projects
 <a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
