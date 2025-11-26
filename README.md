@@ -45,11 +45,12 @@
 
 
 ### 📊 Github Stats
-<!-- Stats Overview -->
-![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekk190&show_icons=true&theme=radical)
-
-<!-- Most Used Languages -->
-![Tarek's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical)
+<a href="https://github.com/tarekk190">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" height="150px"/>
+</a>
+<a href="https://github.com/tarekk190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" height="150px"/>
+</a>
 
 <br>
 
