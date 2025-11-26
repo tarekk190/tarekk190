@@ -44,17 +44,11 @@
 <br>
 
 
-### 📊 Github Stats
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; align-items: flex-start;">
+### 📊 GitHub Stats
 
-  <img src="https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" 
-       alt="GitHub Stats" width="400" height="200" style="object-fit: cover;"/>
+![GitHub Stats](https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical)
 
-  <img src="https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" 
-       alt="Most Used Languages" width="400" height="200" style="object-fit: cover;"/>
-
-</div>
-
+![Most Used Languages](https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical)
 
 
 
