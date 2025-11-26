@@ -51,7 +51,6 @@
 <!-- Most Used Languages -->
 ![Tarek's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical)
 
-
 <br>
 
 ### 🛠️ My Projects
