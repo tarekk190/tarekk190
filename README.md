@@ -45,7 +45,7 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='[https://github.com/rahul-jha98/github-stats-transparent](https://github-readme-stats.vercel.app/api?username=tarek-helal1&show_icons=true&theme=radical)'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
