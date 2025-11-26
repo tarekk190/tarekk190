@@ -45,8 +45,15 @@
 
 
 ### 📊 Github Stats
-![Top Langs](https://img.shields.io/badge/Top%20Langs-JavaScript-yellow)
-![Commits](https://img.shields.io/badge/Commits-500-blue)
+<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+
+  <img src="https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" 
+       alt="GitHub Stats" width="420" height="200" style="object-fit: cover;"/>
+
+  <img src="https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" 
+       alt="Most Used Languages" width="420" height="200" style="object-fit: cover;"/>
+
+</div>
 
 
 ### 🛠️ My Projects
