@@ -48,10 +48,8 @@
 ### My GitHub Stats Badges
 
 <!-- Stats Overview -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarekk190&show_icons=true&theme=radical)
+![GitHub Stats](https://github.com/tarekk190/your-repo/raw/main/github-stats.png)
 
-<!-- Most Used Languages -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical)
 
 
 <br>
