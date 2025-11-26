@@ -45,9 +45,16 @@
 
 
 ### 📊 Github Stats
-![GitHub Stats](https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical)
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+</td>
+<td>
+  <img src="https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" alt="Most Used Languages" width="400"/>
+</td>
+</tr>
+</table>
 <br>
 
 ### 🛠️ My Projects
