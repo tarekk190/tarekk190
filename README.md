@@ -47,8 +47,11 @@
 ### 📊 Github Stats
 ### My GitHub Stats Badges
 
-![GitHub stats](https://img.shields.io/badge/GitHub-tarekk190-181717?style=for-the-badge&logo=github)
-![Top Language](https://img.shields.io/github/languages/top/tarekk190?style=for-the-badge)
+<!-- Stats Overview -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarekk190&show_icons=true&theme=radical)
+
+<!-- Most Used Languages -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical)
 
 
 <br>
