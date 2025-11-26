@@ -55,7 +55,6 @@
 </td>
 </tr>
 </table>
-<br>
 
 ### 🛠️ My Projects
 <a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
