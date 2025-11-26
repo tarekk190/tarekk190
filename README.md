@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
 </td>
 <td>
-  <img src="https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" alt="Most Used Languages" width="300"/>
+  <img src="https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" alt="Most Used Languages" width="400"/>
 </td>
 </tr>
 </table>
