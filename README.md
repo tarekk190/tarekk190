@@ -48,10 +48,10 @@
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
 
   <img src="https://github-readme-stats-x527.vercel.app/api?username=tarekk190&show_icons=true&theme=radical" 
-       alt="GitHub Stats" width="420" height="200" style="object-fit: cover;"/>
+       alt="GitHub Stats" height="180" style="object-fit: contain;"/>
 
   <img src="https://github-readme-stats-x527.vercel.app/api/top-langs/?username=tarekk190&layout=compact&theme=radical" 
-       alt="Most Used Languages" width="420" height="200" style="object-fit: cover;"/>
+       alt="Most Used Languages" height="180" style="object-fit: contain;"/>
 
 </div>
 
