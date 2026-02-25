@@ -1,46 +1,27 @@
-## Hey 👋, I'm Tarek Helal!
-<!-- sohial links -->
+Hey 👋, I'm Tarek Helal!
+<a href="https://www.linkedin.com/in/tarek-helal1"> <img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" height="23px"/> </a> <br/> <br/>
 
-<a href="https://www.linkedin.com/in/tarek-helal1">
-  <img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" height="23px"/>
-</a>
-<a href="https://twitter.com/jharahul98/">
-  <img alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height="23px"/>
-</a>
-<a href="https://www.kaggle.com/rahuljha98/">
-  <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="23px"/>
-</a>
+"Hi, I'm Tarek Helal — Frontend Engineer ⚡ specializing in React & Next.js.
+I build modern, scalable, and performance-focused web applications 🚀.
+Currently expanding into .NET Backend to become a strong Full-Stack Engineer."
 
+<br/> <br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+🧐 More About Me:
 
-"Hi, I'm Tarek Helal — Front-end Developer ⚡ specializing in React & Next.js. I build modern, clean, and fast web experiences using the latest tools and libraries 🚀. Always exploring new tech to turn ideas into real products 💡."
-<br/>
-<br/>
+🔭   I’m currently building real-world full-stack projects
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+🌱   Currently mastering C# & ASP.NET Core
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+💻   Strong experience in React & Next.js
+
+🧠   Interested in system design & scalable architectures
+
+🤖   Exploring AI integrations inside web applications
+
+💬   Ask me about React, Next.js, or frontend architecture
+
+📫   Reach me on LinkedIn
 
 <br>
-
-### 🔨 Languages and Tools:
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
-
-
+🔨 Languages and Tools:
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"/> </a> <a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img align="left" alt=".NET" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/> </a> <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/> </a> <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/> </a> <br/> <br/>
